@@ -26,7 +26,7 @@ public class ChatMessage {
     private String sender;
 
 
-    public enum MessageType{
+    public enum MessageType {
         /**
          * 消息
          */
